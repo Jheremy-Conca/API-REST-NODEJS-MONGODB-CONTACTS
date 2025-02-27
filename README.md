@@ -6,7 +6,7 @@ Este proyecto es una API simple de Gestión de Contactos construida con Node.js,
 
 1. Clona el repositorio:
    ```sh
-   git clone https://github.com/your-repo/contact-management-api.git](https://github.com/Jheremy-Conca/API-REST-NODEJS-MONGODB-CONTACTS/edit/master/README.md)
+   git clone https://github.com/Jheremy-Conca/API-REST-NODEJS-MONGODB-CONTACTS
    ```
 
 2. Navega al directorio del proyecto:
